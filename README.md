@@ -6,3 +6,8 @@ fake vouch that replicates the "ticket" webhook vouch thing , seems to fake vouc
 - Has a delay set into it 
 - Fakes usernames , pfp , reasons
 - Randomize the usernames , pfp , reasons in the list
+
+
+## libs 
+
+`pip install requests`
